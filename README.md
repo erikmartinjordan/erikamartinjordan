@@ -1,4 +1,4 @@
-## Hello, this is Erik
+## Hello, I'm Erik
 
 I write short code articles at [erikmartinjordan.com](https://erikmartinjordan.com). 
 
