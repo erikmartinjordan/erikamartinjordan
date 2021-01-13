@@ -1,5 +1,5 @@
 ## Hello, I'm Erik
 
-I write short code articles at [erikmartinjordan.com](https://erikmartinjordan.com). 
+I'm a developer from Barcelona, and I publish at [erikmartinjordan.com](https://erikmartinjordan.com). 
 
 Feel free to take a look.
